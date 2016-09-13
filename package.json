@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-airbnb-deps",
+  "version": "10.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouhin/eslint-config-airbnb-deps.git"
+  },
+  "author": "Bin Hou <houbin217jz@gmail.com> (https://twitter.com/houbin217jz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kouhin/eslint-config-airbnb-deps/issues"
+  },
+  "homepage": "https://github.com/kouhin/eslint-config-airbnb-deps#readme",
+  "dependencies": {
+    "eslint": "3.5.0",
+    "eslint-config-airbnb": "11.1.0",
+    "eslint-plugin-import": "1.14.0",
+    "eslint-plugin-jsx-a11y": "2.2.1",
+    "eslint-plugin-react": "6.2.0"
+  }
+}
